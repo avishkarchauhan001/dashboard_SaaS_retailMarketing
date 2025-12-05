@@ -1,6 +1,8 @@
 # Xeno Dashboard
 
-A premium, action-oriented dashboard design, a retail marketing SaaS platform. This project demonstrates a modern "Command Center" interface designed to help marketers understand account health and take immediate actions.
+A premium, action-oriented dashboard design for Xeno, a retail marketing SaaS platform. This project demonstrates a modern "Command Center" interface designed to help marketers understand account health and take immediate actions.
+
+**Live Demo:** [https://avishkarchauhan001.github.io/dashboard_SaaS_retailMarketing/](https://avishkarchauhan001.github.io/dashboard_SaaS_retailMarketing/)
 
 > **Note:** This is a **Frontend Design & Prototype**. It is built with React and uses static mock data to demonstrate the UI/UX concepts. There is no active backend integration.
 
