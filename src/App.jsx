@@ -9,7 +9,7 @@ function App() {
       <main className="main-content">
         <header style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
           <div>
-            <h2 className="text-2xl font-bold">Good Morning, Alex 👋</h2>
+            <h2 className="text-2xl font-bold">Good Morning, Avishkar 👋</h2>
             <p className="text-secondary">Here's what's happening in your account today.</p>
           </div>
           <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
